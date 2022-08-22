@@ -1,20 +1,14 @@
 void main (){
-    double y;
-    double t;
-    double r;
-    double e;
-    double w;
-    double q;
-    y=35.43;
-    t=31.34;
-    r=98.33;
-    e=54.4343;
-    w=48773.3748;
-    q=598494.473893;
-    print(y);
-    print(t);
+    String r;
+    String t;
+    String q;
+    String w;
+    r ="men 1995-yil Samarqand viloyati Payariq tumanida tug'ulganman";
+    t ="Samarqand viloyat Payariq tuman 21-Umum talim maktabida o'qiganman";
+    q ="Men xozirda CODESCHOOL dasturlaash maktabining dart tili boyicha oqib kelmoqdaman";
+    w =" Mening ismim Raximov Axror SHaripovich";
     print(r);
-    print(e);
-    print(w);
+    print(t);
     print(q);
+    print(w);
 }
